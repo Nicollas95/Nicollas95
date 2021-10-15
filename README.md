@@ -2,7 +2,7 @@
 ### Olá!!! Eu sou o Nicolas Oliveira 🖐️
 #
 
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas pela Facens Sorocaba-SP
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas pela Facens Sorocaba-SP
 - 💻 Estudando HTML, CSS, JavaScript
 
 [![Instagram](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nicollash.oliveira@outlook.com)
